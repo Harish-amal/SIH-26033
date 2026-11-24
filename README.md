@@ -59,6 +59,8 @@ Machine Learning:        	Demand forecasting
 Google Maps API:         	Location and route management
 
 Cloud hosting:          	Data storage and deployment
+<img width="961" height="702" alt="image" src="https://github.com/user-attachments/assets/00447762-cbb2-4cd4-8727-50ba84aa055b" />
+
 
 ## Feasibility and Viability
 Feasibility of the Idea
