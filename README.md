@@ -42,15 +42,23 @@ Key Features:
 
 ## Technical Approach
 Technologies to Be Used
-Technology	Purpose
-Python	Backend development and AI
-HTML, CSS, JavaScript	Website development
-React	User interface
-Flask / FastAPI	Backend API
-MySQL	Database management
-Machine Learning	Demand forecasting
-Google Maps API	Location and route management
-Cloud hosting	Data storage and deployment
+Technology	           Purpose
+
+Python :             	Backend development and AI
+
+HTML, CSS, JavaScript :       	Website development
+
+React :                    	User interface
+
+Flask / FastAPI:	            Backend API
+
+MySQL:	                  Database management
+
+Machine Learning:        	Demand forecasting
+
+Google Maps API:         	Location and route management
+
+Cloud hosting:          	Data storage and deployment
 
 ## Feasibility and Viability
 Feasibility of the Idea
